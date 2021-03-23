@@ -1,5 +1,8 @@
-/*
-* 
-* @author Jamilton Damasceno
-*/
+/*Layout*/
+body {
+	background: url(../imagens/capa.png),
+				url(../imagens/ruido.png),
+				linear-gradient(50deg, #ff4169, #7c26f8);/*as imagens se sobrepoem*/
+				background-attachment: fixed;/*deixa a imagem de fundo fixa*/
+}
 
